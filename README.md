@@ -2,7 +2,7 @@
 - 👀 I’m interested in cryptocyrencies
 - 🌱 I’m currently learning to create smartcontracts with github
 - 💞️ I’m looking to collaborate on testing newblockchains
-- 📫 How to reach me @johnunu10 (twitter/x)
+- 📫 How to reach me [@johnunu10 (twitter/x)](https://twitter.com/johnunu10)
 
 
 <!---
